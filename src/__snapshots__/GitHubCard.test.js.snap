@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div>
+  <h1>
+    aginiguez
+  </h1>
+  <img
+    alt="photoOfMe"
+    src="erlich.webp"
+  />
+  <button
+    className="btn btn-primary"
+    disabled={false}
+    type="button"
+  >
+    Primary
+  </button>
+  <h2>
+    Hello
+  </h2>
+</div>
+`;
